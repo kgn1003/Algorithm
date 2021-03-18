@@ -5,4 +5,5 @@
 ## [2021.03.18]
 * BaekJoon Online Judge[14502] 연구소_BFS_next_permutation<br>
 * BaekJoon Online Judge[2798]  블랙잭_brute force<br>
-* BaekJoon Online Judge[14889] 스타트와링크_brute force<br>
+* BaekJoon Online Judge[14889] 스타트와링크_next_permutation<br>
+* BaekJoon Online Judge[14889] 스타트와링크_DFS<br>
