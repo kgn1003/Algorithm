@@ -7,3 +7,6 @@
 * BaekJoon Online Judge[2798]  블랙잭_brute force<br>
 * BaekJoon Online Judge[14889] 스타트와링크_next_permutation<br>
 * BaekJoon Online Judge[14889] 스타트와링크_DFS<br>
+# Algorithm<br>
+## [2021.03.19]
+* BaekJoon Online Judge[7596] 토마토_BFS<br>
