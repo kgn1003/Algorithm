@@ -21,3 +21,4 @@
 * BaekJoon Online Judge[15649] N과M(1) backtracking_dfs<br>
 * BaekJoon Online Judge[15650] N과M(2) backtracking_dfs<br>
 * BaekJoon Online Judge[15651] N과M(3) backtracking_dfs<br>
+* BaekJoon Online Judge[1932]  정수삼각형 DP<br>
