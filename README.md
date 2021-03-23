@@ -15,4 +15,7 @@
 # Algorithm<br>
 ## [2021.03.22]
 * BaekJoon Online Judge[5585] 거스름돈_greedy<br>
-* BaekJoon Online Judge[2309] 일곱난쟁이_<br>
+* BaekJoon Online Judge[2309] 일곱난쟁이_brute force<br>
+# Algorithm<br>
+## [2021.03.23]
+* BaekJoon Online Judge[15651] N과M(3) backtracking_dfs<br>
