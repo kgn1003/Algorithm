@@ -32,3 +32,4 @@
 * BaekJoon Online Judge[2606]  바이러스 DFS_BFS<br>
 * BaekJoon Online Judge[1764]  듣보잡 string_binary search<br>
 * BaekJoon Online Judge[11478] 서로 다른 부분 문자열의 개수 set<br>
+* BaekJoon Online Judge[2206] 벽부수고이동하기 BFS<br>
