@@ -29,4 +29,5 @@
 * BaekJoon Online Judge[1654]  랜선자르기 binary search<br>
 ## [2021.03.25]
 * BaekJoon Online Judge[10825] 숫자카드 binary search<br>
-* BaekJoon Online Judge[2606]  바이러스 <br>
+* BaekJoon Online Judge[2606]  바이러스 DFS_BFS<br>
+* BaekJoon Online Judge[1764]  듣보잡 string_binary search<br>
