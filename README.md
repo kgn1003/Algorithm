@@ -27,3 +27,5 @@
 * BaekJoon Online Judge[15652] N과M(4) backtracking_dfs<br>
 * BaekJoon Online Judge[1149]  RGB거리 DP<br>
 * BaekJoon Online Judge[1654]  랜선자르기 binary search<br>
+## [2021.03.25]
+* BaekJoon Online Judge[10825] 숫자카드 binary search<br>
