@@ -1,9 +1,9 @@
 #include <iostream>
-#include <map>
-#include <algorithm>
+#include <unordered_map>
+
 using namespace std;
 long long N, M,answer[50001];
-map<int, int> m;
+unordered_map<int, int> m;
 
 int main() {
 	ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
