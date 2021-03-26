@@ -40,3 +40,4 @@
 * BaekJoon Online Judge[10816] 숫자카드2 unordered map<br>
 * BaekJoon Online Judge[10816] 숫자카드2 lower bound & upper bound<br>
 * BaekJoon Online Judge[2636]  치즈 BFS<br>
+* BaekJoon Online Judge[1966]  프린터큐 priority queue<br>
