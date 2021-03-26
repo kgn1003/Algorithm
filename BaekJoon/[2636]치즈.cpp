@@ -25,7 +25,6 @@ int BFS(pair<int, int> p) {
 					}
 					else {
 						cheese--;
-						flag = true;
 						arr[ny][nx] = 0;
 						visited[ny][nx] = true;
 					}
