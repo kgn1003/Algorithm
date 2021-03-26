@@ -37,3 +37,4 @@
 # Algorithm<br>
 ## [2021.03.26]
 * BaekJoon Online Judge[2512]  예산 binary search<br>
+* BaekJoon Online Judge[10816] 숫자카드2 <br>
