@@ -43,4 +43,5 @@
 * BaekJoon Online Judge[1966]  프린터큐 priority queue<br>
 # Algorithm<br>
 ## [2021.03.27]
-* BaekJoon Online Judge[1062]  가르침 DFS_back tracking<br>
+* BaekJoon Online Judge[1062]   가르침 DFS_back tracking<br>
+* BaekJoon Online Judge[18405]  경쟁적전염 BFS<br>
