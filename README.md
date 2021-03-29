@@ -43,10 +43,11 @@
 * BaekJoon Online Judge[1966]  프린터큐 priority queue<br>
 # Algorithm<br>
 ## [2021.03.27]
-* BaekJoon Online Judge[1062]   가르침 DFS_back tracking<br>
-* BaekJoon Online Judge[18405]  경쟁적전염 BFS<br>
+* BaekJoon Online Judge[1062]  가르침 DFS_back tracking<br>
+* BaekJoon Online Judge[18405] 경쟁적전염 BFS<br>
 # Algorithm<br>
 ## [2021.03.29]
-* BaekJoon Online Judge[2579]   계단오르기 DP<br>
-* BaekJoon Online Judge[1759]   암호만들기 DFS_back tracking<br>
-* BaekJoon Online Judge[1339]   단어수학   greedy_brute force<br>
+* BaekJoon Online Judge[2579]  계단오르기 DP<br>
+* BaekJoon Online Judge[1759]  암호만들기 DFS_back tracking<br>
+* BaekJoon Online Judge[1339]  단어수학   greedy_brute force<br>
+* BaekJoon Online Judge[2156]  포도주 시식 DP force<br>
