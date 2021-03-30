@@ -52,5 +52,5 @@
 * BaekJoon Online Judge[1339]  단어수학   greedy_brute force<br>
 * BaekJoon Online Judge[2156]  포도주 시식 DP<br>
 # Algorithm<br>
-## [2021.03.29]
+## [2021.03.30]
 * BaekJoon Online Judge[3425]  고스택 <br>
