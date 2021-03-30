@@ -53,4 +53,5 @@
 * BaekJoon Online Judge[2156]  포도주 시식 DP<br>
 # Algorithm<br>
 ## [2021.03.30]
-* BaekJoon Online Judge[3425]  고스택 <br>
+* BaekJoon Online Judge[3425]  고스택 stack_simulation<br>
+* BaekJoon Online Judge[1946]  신입사원 greedy<br>
