@@ -51,3 +51,6 @@
 * BaekJoon Online Judge[1759]  암호만들기 DFS_back tracking<br>
 * BaekJoon Online Judge[1339]  단어수학   greedy_brute force<br>
 * BaekJoon Online Judge[2156]  포도주 시식 DP<br>
+# Algorithm<br>
+## [2021.03.29]
+* BaekJoon Online Judge[3425]  고스택 <br>
