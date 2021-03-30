@@ -55,3 +55,4 @@
 ## [2021.03.30]
 * BaekJoon Online Judge[3425]  고스택 stack_simulation<br>
 * BaekJoon Online Judge[1946]  신입사원 greedy<br>
+* BaekJoon Online Judge[14502] 연구소 BFS<br>
