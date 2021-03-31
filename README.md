@@ -60,3 +60,4 @@
 ## [2021.03.30]
 * BaekJoon Online Judge[1463]  1로만들기 DP<br>
 * BaekJoon Online Judge[2178]  미로탐색 BFS<br>
+* BaekJoon Online Judge[2110]  공유기설치 binary search<br>
