@@ -58,4 +58,5 @@
 * BaekJoon Online Judge[14502] 연구소 BFS<br>
 # Algorithm<br>
 ## [2021.03.30]
-* BaekJoon Online Judge[1463]  1로만들기 <br>
+* BaekJoon Online Judge[1463]  1로만들기 DP<br>
+* BaekJoon Online Judge[2178]  미로탐색 BFS<br>
