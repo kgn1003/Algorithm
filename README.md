@@ -65,3 +65,4 @@
 ## [2021.04.01]
 * BaekJoon Online Judge[1699]   제곱수의합 DP<br>
 * BaekJoon Online Judge[10844]  쉬운계단수 DP<br>
+* BaekJoon Online Judge[11053]  가장 긴 증가하는 부분 수열 LIS<br> 
