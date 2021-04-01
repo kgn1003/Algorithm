@@ -63,4 +63,5 @@
 * BaekJoon Online Judge[2110]  공유기설치 binary search<br>
 # Algorithm<br>
 ## [2021.04.01]
-* BaekJoon Online Judge[1699]  제곱수의합 DP<br>
+* BaekJoon Online Judge[1699]   제곱수의합 DP<br>
+* BaekJoon Online Judge[10844]  쉬운계단수 DP<br>
