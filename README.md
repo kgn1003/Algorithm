@@ -74,3 +74,4 @@
 # Algorithm<br>
 ## [2021.04.03]
 * BaekJoon Online Judge[14888]  연산자 끼워넣기 DFS_back tracking<br>
+* BaekJoon Online Judge[12015]  가장 긴 증가하는 부분 수열 2 LIS_binary search<br>
