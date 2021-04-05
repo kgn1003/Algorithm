@@ -79,3 +79,6 @@
 ## [2021.04.04]
 * BaekJoon Online Judge[1003]   피보나치함수 DP<br>
 * BaekJoon Online Judge[11726]  2xN 타일링 DP<br>
+# Algorithm<br>
+## [2021.04.05]
+* BaekJoon Online Judge[1300]   K번째수 binary search<br>
