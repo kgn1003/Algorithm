@@ -82,3 +82,4 @@
 # Algorithm<br>
 ## [2021.04.05]
 * BaekJoon Online Judge[1300]   K번째수 binary search<br>
+* BaekJoon Online Judge[1034]   램프 b<br>
