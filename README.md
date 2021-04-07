@@ -88,3 +88,6 @@
 ## [2021.04.06]
 * BaekJoon Online Judge[9081]  단어맞추기 next_permutation <br>
 * BaekJoon Online Judge[1005]  ACM CRAFT topological sort<br>
+# Algorithm<br>
+## [2021.04.07]
+* BaekJoon Online Judge[3020]  개똥벌레 binary search<br>
