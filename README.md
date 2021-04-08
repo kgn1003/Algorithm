@@ -95,3 +95,6 @@
 ## [2021.04.08]
 * BaekJoon Online Judge[14503] 로봇청소기 simulation<br>
 * BaekJoon Online Judge[17070] 파이프옮기기1 BFS<br>
+# Algorithm<br>
+## [2021.04.09]
+* BaekJoon Online Judge[2638]  치즈2 BFS simulation<br>
