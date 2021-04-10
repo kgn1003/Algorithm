@@ -1,4 +1,3 @@
-#if 0
 #include <iostream>
 using namespace std;
 
@@ -19,7 +18,7 @@ int main() {
 		}
 	}
 	for (int i = 1; i <= n; i++) {
-		int linesum = 0; // iÇà¿¡ ÀÖ´Â ¼ýÀÚµéÀÇ ´©ÀûÇÕ
+		int linesum = 0; // ií–‰ì— ìžˆëŠ” ìˆ«ìžë“¤ì˜ ëˆ„ì í•©
 		for (int j = 1; j <= n; j++) {
 			linesum += arr[i][j];
 			subsum[i][j] = subsum[i - 1][j] + linesum;
@@ -34,4 +33,3 @@ int main() {
 	}
 	return 0;
 }
-#endif
