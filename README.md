@@ -109,4 +109,5 @@
 * BaekJoon Online Judge[12851] 숨바꼭질2 BFS<br>
 # Algorithm<br>
 ## [2021.04.12]
-* BaekJoon Online Judge[17216]  가장 큰 감소 부분 수열 DP<br>
+* BaekJoon Online Judge[17216] 가장 큰 감소 부분 수열 DP<br>
+* BaekJoon Online Judge[1916]  최소 비용 구하기 Dijkstra<br>
