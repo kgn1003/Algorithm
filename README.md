@@ -115,3 +115,4 @@
 # Algorithm<br>
 ## [2021.04.13]
 * BaekJoon Online Judge[2812]  크게 만들기 greedy_stack <br>
+* BaekJoon Online Judge[14500] 테트로미노 brute force <br>
