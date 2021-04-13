@@ -114,4 +114,4 @@
 * BaekJoon Online Judge[17836] 공주님을 구해라! BFS<br>
 # Algorithm<br>
 ## [2021.04.13]
-* BaekJoon Online Judge[2812]  크게 만들기 greedy <br>
+* BaekJoon Online Judge[2812]  크게 만들기 greedy_stack <br>
