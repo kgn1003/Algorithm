@@ -112,3 +112,6 @@
 * BaekJoon Online Judge[17216] 가장 큰 감소 부분 수열 DP<br>
 * BaekJoon Online Judge[1916]  최소 비용 구하기 Dijkstra<br>
 * BaekJoon Online Judge[17836] 공주님을 구해라! BFS<br>
+# Algorithm<br>
+## [2021.04.13]
+* BaekJoon Online Judge[2812]  큰 수 만들기 <br>
