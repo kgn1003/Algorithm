@@ -128,5 +128,5 @@
 * programmers 스킬트리 구현 <br>
 # Algorithm<br>
 ## [2021.04.16]
-* programmers 다음 큰 숫자 next_permutation <br>
+* programmers 다음 큰 숫자 next_permutation 구현<br>
 * programmers 최댓값과 최솟값 sort <br>
