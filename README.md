@@ -126,3 +126,6 @@
 * BaekJoon Online Judge[1197]  최소 스패닝 트리 prim<br>
 * programmers 124나라의 숫자 DP <br>
 * programmers 스킬트리 구현 <br>
+# Algorithm<br>
+## [2021.04.16]
+* programmers 다음 큰 숫자 next_permutation <br>
