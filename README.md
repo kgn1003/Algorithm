@@ -130,3 +130,7 @@
 ## [2021.04.16]
 * programmers 다음 큰 숫자 next_permutation 구현<br>
 * programmers 최댓값과 최솟값 sort <br>
+# Algorithm<br>
+## [2021.04.17]
+* programmers 땅따먹기 DP<br>
+* programmers 영어 끝말 잇기 set 구현 <br>
