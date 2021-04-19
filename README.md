@@ -139,3 +139,6 @@
 ## [2021.04.18]
 * programmers 숫자의 표현 구현<br>
 * programmers 가장 큰 정사각형 찾기 DP<br>
+# Algorithm<br>
+## [2021.04.19]
+* BaekJoon Online Judge[14891]  톱니바퀴 deque_simulation<br>
