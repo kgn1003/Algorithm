@@ -142,3 +142,6 @@
 # Algorithm<br>
 ## [2021.04.19]
 * BaekJoon Online Judge[14891]  톱니바퀴 deque_simulation<br>
+# Algorithm<br>
+## [2021.04.20]
+* BaekJoon Online Judge[16234]  인구이동 DFS_simulation<br>
