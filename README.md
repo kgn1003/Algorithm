@@ -1,37 +1,37 @@
 # Algorithm<br>
 ## [2021.03.17]
-* BaekJoon Online Judge[17281] 야구_next_permutation<br>
+* BaekJoon Online Judge[17281] 야구 next_permutation<br>
 # Algorithm<br>
 ## [2021.03.18]
-* BaekJoon Online Judge[14502] 연구소_BFS_next_permutation<br>
-* BaekJoon Online Judge[2798]  블랙잭_brute force<br>
-* BaekJoon Online Judge[14889] 스타트와링크_next_permutation<br>
-* BaekJoon Online Judge[14889] 스타트와링크_DFS<br>
+* BaekJoon Online Judge[14502] 연구소 BFS/next_permutation<br>
+* BaekJoon Online Judge[2798]  블랙잭 brute force<br>
+* BaekJoon Online Judge[14889] 스타트와링크 next_permutation<br>
+* BaekJoon Online Judge[14889] 스타트와링크 DFS<br>
 # Algorithm<br>
 ## [2021.03.19]
-* BaekJoon Online Judge[7596] 토마토_BFS<br>
-* BaekJoon Online Judge[2667] 단지번호붙이기_DFS<br>
-* BaekJoon Online Judge[2839] 설탕배달_greedy<br>
+* BaekJoon Online Judge[7596] 토마토 BFS<br>
+* BaekJoon Online Judge[2667] 단지번호붙이기 DFS<br>
+* BaekJoon Online Judge[2839] 설탕배달 greedy<br>
 # Algorithm<br>
 ## [2021.03.22]
-* BaekJoon Online Judge[5585] 거스름돈_greedy<br>
-* BaekJoon Online Judge[2309] 일곱난쟁이_brute force<br>
+* BaekJoon Online Judge[5585] 거스름돈 greedy<br>
+* BaekJoon Online Judge[2309] 일곱난쟁이 brute force<br>
 # Algorithm<br>
 ## [2021.03.23]
-* BaekJoon Online Judge[15649] N과M(1) backtracking_dfs<br>
-* BaekJoon Online Judge[15650] N과M(2) backtracking_dfs<br>
-* BaekJoon Online Judge[15651] N과M(3) backtracking_dfs<br>
+* BaekJoon Online Judge[15649] N과M(1) backtracking/dfs<br>
+* BaekJoon Online Judge[15650] N과M(2) backtracking/dfs<br>
+* BaekJoon Online Judge[15651] N과M(3) backtracking/dfs<br>
 * BaekJoon Online Judge[1932]  정수삼각형 DP<br>
 # Algorithm<br>
 ## [2021.03.24]
-* BaekJoon Online Judge[15652] N과M(4) backtracking_dfs<br>
+* BaekJoon Online Judge[15652] N과M(4) backtracking/dfs<br>
 * BaekJoon Online Judge[1149]  RGB거리 DP<br>
 * BaekJoon Online Judge[1654]  랜선자르기 binary search<br>
 # Algorithm<br>
 ## [2021.03.25]
 * BaekJoon Online Judge[10825] 숫자카드 binary search<br>
-* BaekJoon Online Judge[2606]  바이러스 DFS_BFS<br>
-* BaekJoon Online Judge[1764]  듣보잡 string_binary search<br>
+* BaekJoon Online Judge[2606]  바이러스 DFS/BFS<br>
+* BaekJoon Online Judge[1764]  듣보잡 string/binary search<br>
 * BaekJoon Online Judge[11478] 서로 다른 부분 문자열의 개수 set<br>
 * BaekJoon Online Judge[2206]  벽부수고이동하기 BFS<br>
 # Algorithm<br>
@@ -43,17 +43,17 @@
 * BaekJoon Online Judge[1966]  프린터큐 priority queue<br>
 # Algorithm<br>
 ## [2021.03.27]
-* BaekJoon Online Judge[1062]  가르침 DFS_back tracking<br>
+* BaekJoon Online Judge[1062]  가르침 DFS/back tracking<br>
 * BaekJoon Online Judge[18405] 경쟁적전염 BFS<br>
 # Algorithm<br>
 ## [2021.03.29]
 * BaekJoon Online Judge[2579]  계단오르기 DP<br>
-* BaekJoon Online Judge[1759]  암호만들기 DFS_back tracking<br>
-* BaekJoon Online Judge[1339]  단어수학   greedy_brute force<br>
+* BaekJoon Online Judge[1759]  암호만들기 DFS/back tracking<br>
+* BaekJoon Online Judge[1339]  단어수학   greedy/brute force<br>
 * BaekJoon Online Judge[2156]  포도주 시식 DP<br>
 # Algorithm<br>
 ## [2021.03.30]
-* BaekJoon Online Judge[3425]  고스택 stack_simulation<br>
+* BaekJoon Online Judge[3425]  고스택 stack/simulation<br>
 * BaekJoon Online Judge[1946]  신입사원 greedy<br>
 * BaekJoon Online Judge[14502] 연구소 BFS<br>
 # Algorithm<br>
@@ -73,8 +73,8 @@
 * BaekJoon Online Judge[11060]  점프점프 DP<br>
 # Algorithm<br>
 ## [2021.04.03]
-* BaekJoon Online Judge[14888]  연산자 끼워넣기 DFS_back tracking<br>
-* BaekJoon Online Judge[12015]  가장 긴 증가하는 부분 수열 2 LIS_binary search<br>
+* BaekJoon Online Judge[14888]  연산자 끼워넣기 DFS/back tracking<br>
+* BaekJoon Online Judge[12015]  가장 긴 증가하는 부분 수열 2 LIS/binary search<br>
 # Algorithm<br>
 ## [2021.04.04]
 * BaekJoon Online Judge[1003]   피보나치함수 DP<br>
@@ -97,8 +97,8 @@
 * BaekJoon Online Judge[17070] 파이프옮기기1 BFS<br>
 # Algorithm<br>
 ## [2021.04.09]
-* BaekJoon Online Judge[2638]  치즈2 BFS_simulation<br>
-* BaekJoon Online Judge[2573]  빙산 DFS_BFS_simulation<br>
+* BaekJoon Online Judge[2638]  치즈2 BFS/simulation<br>
+* BaekJoon Online Judge[2573]  빙산 DFS/BFS/simulation<br>
 # Algorithm<br>
 ## [2021.04.10]
 * BaekJoon Online Judge[11659] 구간합구하기4 DP<br>
@@ -114,11 +114,11 @@
 * BaekJoon Online Judge[17836] 공주님을 구해라! BFS<br>
 # Algorithm<br>
 ## [2021.04.13]
-* BaekJoon Online Judge[2812]  크게 만들기 greedy_stack <br>
+* BaekJoon Online Judge[2812]  크게 만들기 greedy/stack <br>
 * BaekJoon Online Judge[14500] 테트로미노 brute force <br>
 # Algorithm<br>
 ## [2021.04.14]
-* BaekJoon Online Judge[11000] 강의실 배정 greedy_priority queue <br>
+* BaekJoon Online Judge[11000] 강의실 배정 greedy/priority queue <br>
 * BaekJoon Online Judge[9177]  단어섞기 BFS <br>
 * BaekJoon Online Judge[3190]  뱀 deque <br>
 # Algorithm<br>
@@ -128,12 +128,12 @@
 * programmers 스킬트리 구현 <br>
 # Algorithm<br>
 ## [2021.04.16]
-* programmers 다음 큰 숫자 next_permutation 구현<br>
+* programmers 다음 큰 숫자 next_permutation/구현<br>
 * programmers 최댓값과 최솟값 sort <br>
 # Algorithm<br>
 ## [2021.04.17]
 * programmers 땅따먹기 DP<br>
-* programmers 영어 끝말 잇기 set 구현 <br>
+* programmers 영어 끝말 잇기 set/구현 <br>
 * programmers 게임 맵 최단거리 BFS <br>
 # Algorithm<br>
 ## [2021.04.18]
@@ -141,8 +141,11 @@
 * programmers 가장 큰 정사각형 찾기 DP<br>
 # Algorithm<br>
 ## [2021.04.19]
-* BaekJoon Online Judge[14891]  톱니바퀴 deque_simulation<br>
+* BaekJoon Online Judge[14891] 톱니바퀴 deque/simulation<br>
 # Algorithm<br>
 ## [2021.04.20]
-* BaekJoon Online Judge[16234]  인구이동 DFS_simulation<br>
-* BaekJoon Online Judge[16236]  아기상어 BFS_simulation<br>
+* BaekJoon Online Judge[16234] 인구이동 DFS/simulation<br>
+* BaekJoon Online Judge[16236] 아기상어 BFS/simulation<br>
+# Algorithm<br>
+## [2021.04.21]
+* BaekJoon Online Judge[17142] 연구소3 BFS/simulation/next_permutation<br>
