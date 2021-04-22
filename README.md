@@ -153,3 +153,4 @@
 # Algorithm<br>
 ## [2021.04.22]
 * BaekJoon Online Judge[17779] 게리멘더링2 simulation/구현<br>
+* BaekJoon Online Judge[20057] 마법사상어와 토네이도 simulation/구현<br>
