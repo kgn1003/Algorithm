@@ -150,3 +150,6 @@
 ## [2021.04.21]
 * BaekJoon Online Judge[17142] 연구소3 BFS/simulation/next_permutation<br>
 * BaekJoon Online Judge[15685] 드래곤커브 simulation/구현<br>
+# Algorithm<br>
+## [2021.04.22]
+* BaekJoon Online Judge[17779] 게리멘더링2 simulation/구현<br>
