@@ -157,3 +157,6 @@
 # Algorithm<br>
 ## [2021.04.23]
 * BaekJoon Online Judge[17144] 미세먼지 안녕! simulation/구현<br>
+# Algorithm<br>
+## [2021.04.24]
+* BaekJoon Online Judge[2056]  작업 topological sort<br>
