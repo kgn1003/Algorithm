@@ -162,4 +162,4 @@
 * BaekJoon Online Judge[2056]  작업 topological sort<br>
 # Algorithm<br>
 ## [2021.04.25]
-* BaekJoon Online Judge[19237] 어른상어 /구현<br>
+* BaekJoon Online Judge[19237] 어른상어 simulation/구현<br>
