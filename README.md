@@ -168,3 +168,6 @@
 * programmers 더 맵게 heap sort<br>
 * programmers 최솟값 만들기 sort<br>
 * programmers 징검다리 건너기 binary search<br>
+# Algorithm<br>
+## [2021.04.27]
+* programmers 실패율 구현<br>
