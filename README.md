@@ -171,3 +171,4 @@
 # Algorithm<br>
 ## [2021.04.27]
 * programmers 실패율 구현<br>
+* programmers 없어진 기록 찾기 outer join <br>
