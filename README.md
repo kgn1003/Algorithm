@@ -172,7 +172,8 @@
 ## [2021.04.27]
 * programmers 실패율 구현<br>
 * programmers 없어진 기록 찾기 outer join <br>
-* programmers 동명 동물 수 찾기 group by/having
+* programmers 동명 동물 수 찾기 group by/having<br>
 # Algorithm<br>
 ## [2021.04.28]
 * programmers 점프와 순간이동 DP<br>
+* programmers 있었는데요 없었습니다 join <br>
