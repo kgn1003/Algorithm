@@ -171,7 +171,7 @@
 # Algorithm<br>
 ## [2021.04.27]
 * programmers 실패율 구현<br>
-* programmers 없어진 기록 찾기 outer join <br>
+* programmers 없어진 기록 찾기 SQL outer join <br>
 * programmers 동명 동물 수 찾기 SQL group by/having<br>
 # Algorithm<br>
 ## [2021.04.28]
