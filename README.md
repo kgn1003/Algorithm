@@ -190,3 +190,4 @@
 # Algorithm<br>
 ## [2021.05.01]
 * programmers 다리를 지나는 트럭 deque<br>
+* programmers 이름에 el이 들어가는 동물 찾기 SQL like<br>
