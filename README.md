@@ -171,23 +171,23 @@
 # Algorithm<br>
 ## [2021.04.27]
 * programmers 실패율 구현<br>
-* programmers 없어진 기록 찾기 SQL outer join <br>
-* programmers 동명 동물 수 찾기 SQL group by/having<br>
+* programmers 없어진 기록 찾기 SQL/outer join <br>
+* programmers 동명 동물 수 찾기 SQL/group by/having<br>
 # Algorithm<br>
 ## [2021.04.28]
 * programmers 점프와 순간이동 DP<br>
-* programmers 있었는데요 없었습니다 SQL join <br>
+* programmers 있었는데요 없었습니다 SQL/join <br>
 # Algorithm<br>
 ## [2021.04.29]
 * programmers 기능개발 queue<br>
 * programmers 배달 dijkstra<br>
-* programmers 중복 제거하기 SQL distinct <br>
+* programmers 중복 제거하기 SQL/distinct <br>
 # Algorithm<br>
 ## [2021.04.30]
 * programmers 방문 길이 set<br>
 * programmers 올바른 괄호 stack<br>
-* programmers 오랜 기간 보호한 동물(2) SQL limit <br>
+* programmers 오랜 기간 보호한 동물(2) SQL/limit <br>
 # Algorithm<br>
 ## [2021.05.01]
 * programmers 다리를 지나는 트럭 deque<br>
-* programmers 이름에 el이 들어가는 동물 찾기 SQL like<br>
+* programmers 이름에 el이 들어가는 동물 찾기 SQL/like<br>
