@@ -198,3 +198,4 @@
 # Algorithm<br>
 ## [2021.05.02]
 * BaekJoon Online Judge[1939]  중량제한 BFS/binary search<br>
+* programmers 중성화 여부 파악하기 SQL/case when/like<br>
