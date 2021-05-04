@@ -202,3 +202,4 @@
 # Algorithm<br>
 ## [2021.05.04]
 * programmers 뉴스 클러스터링 set_intersection/set_union/back_inserter<br>
+* programmers 오랜 기간 보호한 동물(1) SQL/outer join/limit<br>
