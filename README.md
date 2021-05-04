@@ -202,5 +202,6 @@
 # Algorithm<br>
 ## [2021.05.04]
 * programmers 뉴스 클러스터링 set_intersection/set_union/back_inserter<br>
+* programmers 오픈 채팅방 map/sstream<br>
 * programmers 오랜 기간 보호한 동물(1) SQL/outer join/limit<br>
-* programmers 우유와 요거트가 담긴 장바구니 SQL/
+* programmers 우유와 요거트가 담긴 장바구니 SQL/join/distince<br>
