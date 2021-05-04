@@ -192,10 +192,13 @@
 * programmers 다리를 지나는 트럭 deque<br>
 * programmers 이름에 el이 들어가는 동물 찾기 SQL/like<br>
 # Algorithm<br>
-## [2021.05.01]
+## [2021.05.02]
 * programmers 주식가격 구현<br>
 * programmers 카펫 완전탐색<br>
 # Algorithm<br>
-## [2021.05.02]
+## [2021.05.03]
 * BaekJoon Online Judge[1939]  중량제한 BFS/binary search<br>
 * programmers 중성화 여부 파악하기 SQL/case when/like<br>
+# Algorithm<br>
+## [2021.05.04]
+* programmers 뉴스 클러스터링 set_intersection/set_union/back_inserter<br>
