@@ -210,3 +210,4 @@
 * BaekJoon Online Judge[5052]  전화번호 목록 unordered_map/set<br>
 * programmers 전화번호 목록 unordered_map/set<br>
 * programmers 위장 map<br>
+* programmers 입국심사 binary search<br>
