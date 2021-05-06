@@ -213,4 +213,5 @@
 * programmers 입국심사 binary search<br>
 # Algorithm<br>
 ## [2021.05.06]
+* BaekJoon Online Judge[1806]  부분합 two pointer<br>
 * programmers 비밀지도 구현<br>
