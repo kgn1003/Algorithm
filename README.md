@@ -221,3 +221,4 @@
 # Algorithm<br>
 ## [2021.05.07]
 * BaekJoon Online Judge[9663]  N-Queen DFS/back tracking<br>
+* BaekJoon Online Judge[2473]  세 용액 binary search/two pointer<br>
