@@ -231,4 +231,4 @@
 # Algorithm<br>
 ## [2021.05.09]
 * BaekJoon Online Judge[1655]  가운데를 말해요 priority_queue/max_heap/min_heap<br>
-* BaekJoon Online Judge[1655]  가운데를 말해요 priority_queue<br>
+* BaekJoon Online Judge[1715]  카드정렬하기 priority_queue<br>
