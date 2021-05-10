@@ -19,20 +19,12 @@ int main() {
 		for (int j = 0; j < N; j++) {
 			cin >> num;
 			pq.push(num);
-			//v.push_back(num);
 		}
-		//sort(v.begin(), v.end(),greater<int>());
 		if (pq.size() > N) {
 			for (int i = 0; i < N; i++) {
 				pq.pop();
 			}
-			//v.erase(v.begin() + N, v.end());
 		}
-		/*cout << ">> ";
-		for (int k = 0; k < v.size(); k++) {
-			cout <<v[k] << " ";
-		}
-		cout << endl;*/
 	}
 	
 	cout << pq.top();
