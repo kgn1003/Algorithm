@@ -243,3 +243,6 @@
 # Algorithm<br>
 ## [2021.05.12]
 * BaekJoon Online Judge[1068]  트리 tree/queue<br>
+# Algorithm<br>
+## [2021.05.13]
+* BaekJoon Online Judge[2493]  탑 stack<br>
